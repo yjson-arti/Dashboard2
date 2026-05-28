@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CRM Audience Dashboard",
+  "description": "A sophisticated marketing analytics table replicating a specific data view with an added \u0027Null\u0027 category as requested, featuring interactive charts and Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
